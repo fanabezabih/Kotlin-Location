@@ -4,7 +4,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.bigminds.map_kotlin.model.Contact
 import com.bigminds.map_kotlin.respository.ContactsRepository
-import com.bigminds.map_kotlin.screens.ContactsRepository
 
 
 import kotlinx.coroutines.launch
